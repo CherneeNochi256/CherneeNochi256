@@ -32,7 +32,7 @@ I am Full Stack developer.
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
  </a> 
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src=" https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="36" height="36" alt="Typescript" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="36" height="36" alt="Typescript" />
  </a> 
 
  ### Backend skills
